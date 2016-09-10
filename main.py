@@ -1,4 +1,4 @@
-intrest#!/usr/bin/env python
+#!/usr/bin/env python
 #
 # Copyright 2007 Google Inc.
 #
